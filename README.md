@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm S. Manjunath Reddy</h1>
 
 <h3 align="center">
-  AI/ML Student | Full Stack Developer | Open Source Contributor | Google Student Ambassador
+  B.Tech CSM Student at KMIT | Full Stack Developer | Exploring AI & ML | Python | Java | MERN Stack
 </h3>
 
 <p align="center">
@@ -42,33 +42,30 @@
       <br /><br />
       <b>Currently</b>
       <br />
-      GSSoC 2026 Contributor | Google Student Ambassador | LeetCode Practice | React and Git Improvement
+      GSSoC 2026 Contributor | Google Student Ambassador | Full Stack Development | AI & ML Exploration
     </td>
   </tr>
 </table>
 
-I am a **B.Tech Computer Science student specializing in AI & Machine Learning** at **Keshav Memorial Institute of Technology, Hyderabad**.
+Hi, I am **S. Manjunath Reddy**, a **Computer Science and Machine Learning student at Keshav Memorial Institute of Technology**.
 
-I enjoy building practical products where frontend, backend, databases, and AI come together into something users can actually try.
+I am curious about how things work, and coding gives me a way to explore that curiosity by building, testing, breaking, and improving real projects. I have worked with **Python, Java, JavaScript, React, Node.js, Express, MongoDB**, and frontend technologies, and I enjoy creating projects that help me understand technology better while solving meaningful problems.
 
-My current focus is:
+At present, I am exploring the intersection of **Artificial Intelligence, Machine Learning, and Web Development**. I am especially interested in how intelligent systems and modern web technologies can work together to build more useful, interactive, and practical solutions.
 
-- Full stack development with the MERN ecosystem
-- AI-powered career-tech and job-tech platforms
-- Clean frontend UI and responsive design
-- Open source contribution through GSSoC 2026
-- DSA practice with C++ and Java
+I believe the best way to learn is through practice. Every project, error, pull request, and improvement adds something to who I am as a developer. I am currently growing through **open source contributions, hackathons, DSA practice, AI projects, and full stack development**.
 
 ```yaml
 name: S. Manjunath Reddy
 location: Hyderabad, India
 college: KMIT
-branch: CSE - AI & ML
+branch: Computer Science and Machine Learning
 currently:
   - GSSoC 2026
   - Google Student Ambassador
-  - LeetCode practice
-  - React and Git improvement
+  - Full stack development
+  - AI and ML exploration
+  - LeetCode and DSA practice
 ```
 
 <p align="center">
