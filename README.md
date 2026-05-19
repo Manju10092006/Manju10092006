@@ -9,7 +9,7 @@
 <h1 align="center">Hey, I'm S. Manjunath Reddy</h1>
 
 <h3 align="center">
-  AI/ML Student · Full Stack Developer · Open Source Contributor · Google Student Ambassador
+  AI/ML Student | Full Stack Developer | Open Source Contributor | Google Student Ambassador
 </h3>
 
 <p align="center">
@@ -34,10 +34,6 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
 I am a **B.Tech Computer Science student specializing in AI & Machine Learning** at **Keshav Memorial Institute of Technology, Hyderabad**.
 
 I enjoy building practical products where frontend, backend, databases, and AI come together into something users can actually try.
@@ -49,9 +45,6 @@ My current focus is:
 - Clean frontend UI and responsive design
 - Open source contribution through GSSoC 2026
 - DSA practice with C++ and Java
-
-    </td>
-    <td width="42%" valign="top">
 
 ```yaml
 name: S. Manjunath Reddy
@@ -65,10 +58,6 @@ currently:
   - LeetCode practice
   - React and Git improvement
 ```
-
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
