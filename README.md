@@ -2,23 +2,11 @@
   <img src="./profile-assets/banner.png" alt="S. Manjunath Reddy LinkedIn Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./profile-assets/profile-round.png" alt="S. Manjunath Reddy" width="220" />
-</p>
-
 <h1 align="center">Hey, I'm S. Manjunath Reddy</h1>
 
 <h3 align="center">
   AI/ML Student | Full Stack Developer | Open Source Contributor | Google Student Ambassador
 </h3>
-
-<p align="center">
-  <a href="mailto:manju.sogala@gmail.com"><img src="https://img.shields.io/badge/Gmail-manju.sogala%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/smanjunathreddy/"><img src="https://img.shields.io/badge/LinkedIn-S.%20Manjunath%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Manju10092006"><img src="https://img.shields.io/badge/GitHub-Manju10092006-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/2Lf1lVrg2w"><img src="https://img.shields.io/badge/LeetCode-2Lf1lVrg2w-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://job-cluster.vercel.app"><img src="https://img.shields.io/badge/Live%20Project-JobCluster-22C55E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=950&lines=Building+AI-powered+full+stack+products.;MERN+Stack+%2B+Machine+Learning+%2B+Clean+UI.;GSSoC+2026+Contributor+%7C+Google+Student+Ambassador.;Learning+in+public%2C+one+clean+PR+at+a+time." alt="typing svg" />
@@ -29,10 +17,35 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
+  <img src="./profile-assets/red-motion-line.svg" width="100%" />
 </p>
 
 ## About Me
+
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="./profile-assets/profile-round.png" alt="S. Manjunath Reddy" width="180" />
+      <br />
+      <b>S. Manjunath Reddy</b>
+      <br />
+      Hyderabad, India
+    </td>
+    <td width="70%">
+      <b>Profile Links</b>
+      <br /><br />
+      <a href="mailto:manju.sogala@gmail.com"><img src="https://img.shields.io/badge/Gmail-manju.sogala%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/smanjunathreddy/"><img src="https://img.shields.io/badge/LinkedIn-S.%20Manjunath%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://github.com/Manju10092006"><img src="https://img.shields.io/badge/GitHub-Manju10092006-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://leetcode.com/u/2Lf1lVrg2w"><img src="https://img.shields.io/badge/LeetCode-2Lf1lVrg2w-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+      <a href="https://job-cluster.vercel.app"><img src="https://img.shields.io/badge/Live%20Project-JobCluster-22C55E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <br /><br />
+      <b>Currently</b>
+      <br />
+      GSSoC 2026 Contributor | Google Student Ambassador | LeetCode Practice | React and Git Improvement
+    </td>
+  </tr>
+</table>
 
 I am a **B.Tech Computer Science student specializing in AI & Machine Learning** at **Keshav Memorial Institute of Technology, Hyderabad**.
 
@@ -51,7 +64,6 @@ name: S. Manjunath Reddy
 location: Hyderabad, India
 college: KMIT
 branch: CSE - AI & ML
-cgpa_focus: SGPA 8.75
 currently:
   - GSSoC 2026
   - Google Student Ambassador
@@ -60,7 +72,7 @@ currently:
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
+  <img src="./profile-assets/red-motion-line.svg" width="100%" />
 </p>
 
 ## Tech Stack
@@ -87,7 +99,7 @@ currently:
 | Tools | Git, GitHub, Vercel, Microsoft Azure, Google Maps API, Linux |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
+  <img src="./profile-assets/red-motion-line.svg" width="100%" />
 </p>
 
 ## Featured Projects
@@ -118,7 +130,7 @@ currently:
 | **AgriShield AI** | Crop disease detection, NDVI monitoring, weather risk prediction, farm mapping, multilingual AI assistant | Python, TensorFlow/Keras, JavaScript, Google Maps API |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
+  <img src="./profile-assets/red-motion-line.svg" width="100%" />
 </p>
 
 ## Open Source and Community
@@ -142,7 +154,7 @@ Improve from review.
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
+  <img src="./profile-assets/red-motion-line.svg" width="100%" />
 </p>
 
 ## GitHub Analytics
@@ -174,7 +186,7 @@ Improve from review.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
+  <img src="./profile-assets/red-motion-line.svg" width="100%" />
 </p>
 
 ## LeetCode Arena
@@ -193,7 +205,7 @@ Improve from review.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
+  <img src="./profile-assets/red-motion-line.svg" width="100%" />
 </p>
 
 ## Certifications
@@ -222,7 +234,7 @@ Improve from review.
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF1744" width="100%" />
+  <img src="./profile-assets/red-motion-line.svg" width="100%" />
 </p>
 
 ## Building Toward
