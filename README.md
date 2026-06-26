@@ -35,7 +35,7 @@
       <b>Profile Links</b>
       <br /><br />
       <a href="mailto:manju.sogala@gmail.com"><img src="https://img.shields.io/badge/Gmail-manju.sogala%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/smanjunathreddy/"><img src="https://img.shields.io/badge/LinkedIn-S.%20Manjunath%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/s-manjunath-reddy-51784638a/"><img src="https://img.shields.io/badge/LinkedIn-S.%20Manjunath%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://github.com/Manju10092006"><img src="https://img.shields.io/badge/GitHub-Manju10092006-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="https://leetcode.com/u/2Lf1lVrg2w"><img src="https://img.shields.io/badge/LeetCode-2Lf1lVrg2w-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
       <a href="https://job-cluster.vercel.app"><img src="https://img.shields.io/badge/Live%20Project-JobCluster-22C55E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
